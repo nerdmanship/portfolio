@@ -81,6 +81,135 @@ const projects = [
             alt: "3D model"
           }
     ]
+  },
+  {
+  title: "Planet Brian"
+  },
+  {
+  title: "Postcard journey"
+  },
+  {
+  title: "Firefox"
+  },
+  {
+  title: "Shopify 1"
+  },
+  {
+  title: "Shopify 2"
+  },
+  {
+  title: "Shopify 3"
+  },
+  {
+  title: "Kaonashi"
+  },
+  {
+    title: "Bob 1"
+  },
+  {
+    title: "Bob 2"
+  },
+  {
+    title: "Blood"
+  },
+  {
+    title: "Endless summer"
+  },
+  {
+    title: "Wine Cellar promotion"
+  },
+  {
+    title: "Bouncy lightning"
+  },
+  {
+    title: "Advanced noise"
+  },
+  {
+    title: "Atmosea logo"
+  },
+  {
+    title: "Negative delay"
+  },
+  {
+    title: "Rimlight"
+  },
+  {
+    title: "Nerdmanship intro"
+  },
+  {
+    title: "Local delivery: Optimize route"
+  },
+  {
+    title: "Media dropzone"
+  },
+  {
+    title: "Stickers"
+  },
+  {
+    title: "Print imperfections"
+  },
+  {
+    title: "Cheese"
+  },  
+  {
+    title: "Alpha crush"
+  },
+  {
+    title: "Motion language examples (from the google doc)"
+  },
+  {
+    title: "Ease visualizer (https://codepen.io/nerdmanship/details/JjzvMjR)"
+  },
+  {
+    title: "Scroll timeline: Rolladex https://codesandbox.io/p/sandbox/fancy-hooks-zd9xlq"
+  },
+  {
+    title: "Scroll timeline: Conveyer belt: https://codesandbox.io/p/sandbox/vigorous-lucy-jfjf6w https://codesandbox.io/p/sandbox/winter-http-75gw6f"
+  },
+  {
+    title: "Scroll timeline: Conveyer belt with overlays https://codesandbox.io/p/sandbox/winter-http-75gw6f"
+  },
+  {
+    title: "View transition playground - codesandbox"
+  },
+  {
+    title: "Navigation tactility - codesandbox"
+  },
+  {
+    title: "Bored rock"
+  },
+  {
+    title: "Hoylu flipboard"
+  },
+  {
+    title: "DMSS particles logo"
+  },
+  {
+    title: "WE construction logo"
+  },
+  {
+    title: ""
+  },
+  {
+    title: ""
+  },
+  {
+    title: ""
+  },
+  {
+    title: ""
+  },
+  {
+    title: ""
+  },
+  {
+    title: ""
+  },
+  {
+    title: ""
+  },
+  {
+    title: ""
   }
 ];
 
