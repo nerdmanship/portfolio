@@ -1,3 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .border-default {
+    box-shadow: 0 0 0 1px rgba(255,255,255,0.145);
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center px-4 py-2 text-sm font-medium rounded-md transition-colors h-fit border-default;
+  }
+  
+  .btn-small {
+    @apply px-[0.5rem] py-[0.1rem] text-xs;
+  }
+
+  .btn-neutral {
+    @apply text-white/80 bg-neutral-800/50 hover:bg-neutral-700 active:bg-neutral-600;
+    @apply focus:outline-none focus:ring-2 focus:ring-neutral-500 focus:ring-offset-2 focus:ring-offset-neutral-900;
+  }
+
+  .btn-primary {
+    @apply text-white bg-blue-600 hover:bg-blue-500 active:bg-blue-700;
+    @apply focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 focus:ring-offset-neutral-900;
+  }
+}
+
+/* Your existing CSS stays below */
 :root {
   /* Colors */
   --color-black: #000000;
